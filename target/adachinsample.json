@@ -1,0 +1,227 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "validating with correct username and correct password",
+        "description": "",
+        "id": "validating-login-of-adachin-application;validating-with-correct-username-and-correct-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10098908500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on adachin page on chrome browser",
+            "match": {
+              "location": "AdachinStepDef.user_is_on_adachin_page_on_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 452947500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter username and password",
+            "match": {
+              "location": "AdachinStepDef.user_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2469732600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user should click login button",
+            "match": {
+              "location": "AdachinStepDef.user_should_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 610643100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should select the location",
+            "match": {
+              "location": "AdachinStepDef.user_should_select_the_location()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 250318400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user should select the hotels",
+            "match": {
+              "location": "AdachinStepDef.user_should_select_the_hotels()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 194158700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should choose the room type",
+            "match": {
+              "location": "AdachinStepDef.user_should_choose_the_room_type()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 196857100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user sholud choose number of rooms",
+            "match": {
+              "location": "AdachinStepDef.user_sholud_choose_number_of_rooms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 170116100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user should choose checkindate",
+            "match": {
+              "location": "AdachinStepDef.user_should_choose_checkindate()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164794200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user should choose checkoutdate",
+            "match": {
+              "location": "AdachinStepDef.user_should_choose_checkoutdate()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 254636400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user should mention adultsperroom",
+            "match": {
+              "location": "AdachinStepDef.user_should_mention_adultsperroom()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 186030500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user should mention childrensperroom",
+            "match": {
+              "location": "AdachinStepDef.user_should_mention_childrensperroom()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1486416800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user should submit the details",
+            "match": {
+              "location": "AdachinStepDef.user_should_submit_the_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1825506100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should give the persional details",
+            "match": {
+              "location": "AdachinStepDef.user_should_give_the_persional_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 897191100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should give credit card details",
+            "match": {
+              "location": "AdachinStepDef.user_should_give_credit_card_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 152442200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should booknow the room",
+            "match": {
+              "location": "AdachinStepDef.user_should_booknow_the_room()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7861079000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user print order Id to console",
+            "match": {
+              "location": "AdachinStepDef.user_print_order_Id_to_console()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 136100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "used should verify homepage is displayed or not",
+            "match": {
+              "location": "AdachinStepDef.used_should_verify_homepage_is_displayed_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "validating login of adachin application",
+    "description": "",
+    "id": "validating-login-of-adachin-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Adachin.feature",
+    "tags": []
+  }
+]

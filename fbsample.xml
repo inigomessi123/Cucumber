@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.013654">
+<testcase classname="validating login of adachin application" name="validating with correct username and correct password" time="0.013654">
+<system-out><![CDATA[Given user is on adachin page on chrome browser.............................skipped
+When user enter username and password.......................................skipped
+And user should click login button..........................................skipped
+And user should select the location.........................................skipped
+And user should select the hotels...........................................skipped
+And user should choose the room type........................................skipped
+And user sholud choose number of rooms......................................skipped
+And user should choose checkindate..........................................skipped
+And user should choose checkoutdate.........................................skipped
+And user should mention adultsperroom.......................................skipped
+And user should mention childrensperroom....................................skipped
+And user should submit the details..........................................skipped
+And user should give the persional details..................................skipped
+And user should give credit card details....................................skipped
+And user should booknow the room............................................skipped
+And user print order Id to console..........................................skipped
+Then used should verify homepage is displayed or not........................skipped
+]]></system-out>
+</testcase>
+</testsuite>

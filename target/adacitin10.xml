@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="228.249705">
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id" time="26.496153">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "2", "22/04/2022", "<Chechoutdate>", "2", "2" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 2" time="20.471271">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "2", "22/04/2022", "<Chechoutdate>", "2", "2" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 3" time="22.43017">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "2", "22/04/2022", "<Chechoutdate>", "2", "2" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 4" time="23.478161">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "2", "22/04/2022", "<Chechoutdate>", "2", "2" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 5" time="21.476828">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 6" time="20.732727">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 7" time="21.81439">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 8" time="22.042831">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 9" time="25.43266">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adacitin hotel page" name="Genrating order id 10" time="23.874514">
+<system-out><![CDATA[Given user is on Adacitin hotel app on chrome browser.......................passed
+When user enter "INIGOMESSI" and "raja@92"..................................passed
+And user should click on login buton........................................passed
+When user select "New York", "Hotel Sunshine" "Double", "1", "22/04/2022", "<Chechoutdate>", "1", "1" And click continue button.passed
+When user select the hotel and click continue for booking...................passed
+When user enter"INIGO", "RAJA", "8/144,East street,HrKOTTAI.DGL", "6381162847958504", "VISA", "7", "2022"and "786".passed
+And user click on continue for genrating order id...........................passed
+And user print order Id to console..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
